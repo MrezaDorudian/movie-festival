@@ -1,0 +1,6 @@
+Flask==2.0.3
+Flask_Bcrypt==0.7.1
+Flask_Cors==3.0.10
+ibm_cloud_sdk_core==3.14.0
+ibm_watson==5.3.1
+Werkzeug==2.0.3
